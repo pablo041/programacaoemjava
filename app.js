@@ -1,5 +1,5 @@
 alert('Boas vindas ao jogo do terror');
-let numeroSecreto = 66;
+let numeroSecreto = 666;
 console.log('numeroSecreto')
 let chute = prompt('Escolha um número entre 1 e 1000');
 
